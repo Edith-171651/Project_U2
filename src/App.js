@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import PokemonThumb from './components/PokemonThumb'
-import Info from './Edith'
 import Edith from "./Edith"
 
 
